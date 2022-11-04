@@ -14,3 +14,6 @@ alias make="make -j8"
 alias tls="tmux ls"
 alias c="code -r"
 alias todo="grep -r TODO * --color=auto"
+LS_COLORS=$LS_COLORS:'di=0;32:'
+export LS_COLORS
+
