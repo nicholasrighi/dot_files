@@ -1,0 +1,10 @@
+*/*
+.bash_history
+.bash_logout
+.bashrc
+.gitconfig
+.profile
+.motd_shown
+.sudo_as_admin_successful
+.viminfo
+.python_history
